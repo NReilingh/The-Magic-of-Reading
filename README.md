@@ -1,7 +1,7 @@
 # The Magic of Reading
 
-1999
-By Bill Hill, Microsoft, co-creator of ClearType
+1999  
+By Bill Hill, Microsoft (co-creator of ClearType)
 
 This work has become difficult to access on the Internet due to link rot.
 The late author's words (at the time of this writing) are still available on this blog post:
