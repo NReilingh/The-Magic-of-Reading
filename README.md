@@ -17,7 +17,7 @@ I would be delighted to forefeit ownership of this repository to Microsoft.
 
 ## Files
 
-### osprey.doc
+### [osprey.doc](osprey.doc)
 
 SHA-256: ad957cc01704e0d4ddd1e86d982e93cb0da3ada8a86961bd635c87c82062ff2b
 
@@ -26,7 +26,7 @@ but this URL is defunct.
 
 This copy was obtained from the [Internet Archive](https://web.archive.org/web/20110515223749/http://www.poynterextra.org/msfonts/osprey.doc).
 
-### osprey.pdf
+### [osprey.pdf](osprey.pdf)
 
 This is the preferred format for most users in 2019.
 
@@ -41,7 +41,7 @@ No canonical PDF copy was ever originally produced. One has been available on `s
 but this was an automated and low quality conversion, and sits behind Scribd's paywall,
 which for some reason is a thing they are allowed to do with content they do not own.
 
-### magic.lit
+### [magic.lit](magic.lit)
 
 SHA-256: 7b0a8e85f96dc72b355972320620f33e1c4c37d7634c317914ef1671c5c30f99
 
@@ -49,7 +49,7 @@ Bill's blog post also references an eBook format available from Slate.com.
 This appears to be the "canonical" digital distribution of the work.
 Again, the Slate links are defunct, but this copy was obtained from the [Internet Archive](https://web.archive.org/web/20070208221043if_/http://slate.msn.com:80/ebooks/magic.lit).
 
-### MSReaderSetup.exe
+### [MSReaderSetup.exe](MSReaderSetup.exe)
 
 SHA-256: d6ab507df75127c54ede7c5cba3dad0041246255a97f6e0138d4a28c1990a013
 
@@ -61,7 +61,7 @@ This version still installs and is able to read `magic.lit` on Windows 10 in 201
 This copy was obtained from a [cnet download page](
 https://download.cnet.com/Microsoft-Reader/3000-20412_4-10047475.html).
 
-### Readerv26setupUSA.exe
+### [Readerv26setupUSA.exe](Readerv26setupUSA.exe)
 
 SHA-256: f78b783ebcab95ac398b8ff8a3b4bda8ab5962f08ba8d6a0efdc7608d577d136
 
