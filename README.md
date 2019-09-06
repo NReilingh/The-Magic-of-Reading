@@ -1,6 +1,6 @@
 # The Magic of Reading
 
-1999  
+1999
 By Bill Hill, Microsoft (co-creator of ClearType)
 
 This work has become difficult to access on the Internet due to link rot.
@@ -76,7 +76,7 @@ This version of Microsoft Reader is no longer distributed; this copy was obtaine
 ## Prior Art
 
 Immediately after publishing this repo, I noticed that one of the search results
-on a still-open browser tab was http://weatherspark.azurewebsites.net/osprey/,
+on a still-open browser tab was [http://weatherspark.azurewebsites.net/osprey/](http://weatherspark.azurewebsites.net/osprey/),
 which appears to publish a good conversion of the work to HTML format.
 In the interest of archiving resources whose future accessibility is not guaranteed,
-I am mirroring that [HTML file](osprey7.htm) in this repo.
+I am mirroring that [HTML page](https://nreilingh.github.io/The-Magic-of-Reading/) in this repo.
