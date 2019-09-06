@@ -1,6 +1,6 @@
 # The Magic of Reading
 
-1999
+1999\
 By Bill Hill, Microsoft (co-creator of ClearType)
 
 This work has become difficult to access on the Internet due to link rot.
