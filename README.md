@@ -19,7 +19,7 @@ I would be delighted to forefeit ownership of this repository to Microsoft.
 
 ### [osprey.doc](osprey.doc)
 
-SHA-256: ad957cc01704e0d4ddd1e86d982e93cb0da3ada8a86961bd635c87c82062ff2b
+    SHA-256: ad957cc01704e0d4ddd1e86d982e93cb0da3ada8a86961bd635c87c82062ff2b
 
 The aforementioned blog post references this document at `http://www.poynterextra.org/msfonts/osprey.doc`,
 but this URL is defunct.
@@ -43,7 +43,7 @@ which for some reason is a thing they are allowed to do with content they do not
 
 ### [magic.lit](magic.lit)
 
-SHA-256: 7b0a8e85f96dc72b355972320620f33e1c4c37d7634c317914ef1671c5c30f99
+    SHA-256: 7b0a8e85f96dc72b355972320620f33e1c4c37d7634c317914ef1671c5c30f99
 
 Bill's blog post also references an eBook format available from Slate.com.
 This appears to be the "canonical" digital distribution of the work.
@@ -51,7 +51,7 @@ Again, the Slate links are defunct, but this copy was obtained from the [Interne
 
 ### [MSReaderSetup.exe](MSReaderSetup.exe)
 
-SHA-256: d6ab507df75127c54ede7c5cba3dad0041246255a97f6e0138d4a28c1990a013
+    SHA-256: d6ab507df75127c54ede7c5cba3dad0041246255a97f6e0138d4a28c1990a013
 
 The `magic.lit` "canonical digital distribution" above is published for [Microsoft Reader](https://en.wikipedia.org/wiki/Microsoft_Reader),
 which is eBook-reading software no longer distributed by Microsoft.
@@ -63,7 +63,7 @@ https://download.cnet.com/Microsoft-Reader/3000-20412_4-10047475.html).
 
 ### [Readerv26setupUSA.exe](Readerv26setupUSA.exe)
 
-SHA-256: f78b783ebcab95ac398b8ff8a3b4bda8ab5962f08ba8d6a0efdc7608d577d136
+    SHA-256: f78b783ebcab95ac398b8ff8a3b4bda8ab5962f08ba8d6a0efdc7608d577d136
 
 A later version of Microsoft Reader was released, but appears to be only installable on machines
 with the "[Microsoft Touch Pack](https://www.microsoft.com/en-us/download/details.aspx?id=17368)" installed.
