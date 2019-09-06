@@ -73,3 +73,10 @@ Pull requests accepted if someone can get this working.
 This version of Microsoft Reader is no longer distributed; this copy was obtained from the [Internet](https://web.archive.org/web/20160816093148/http://www.microsoft.com/en-us/download/details.aspx?id=18364)
 [Archive](https://web.archive.org/web/20160816092327/http://www.microsoft.com/en-us/download/confirmation.aspx?id=18364).
 
+## Prior Art
+
+Immediately after publishing this repo, I noticed that one of the search results
+on a still-open browser tab was http://weatherspark.azurewebsites.net/osprey/,
+which appears to publish a good conversion of the work to HTML format.
+In the interest of archiving resources whose future accessibility is not guaranteed,
+I am mirroring that [HTML file](osprey7.htm) in this repo.
