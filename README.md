@@ -15,13 +15,10 @@ I am redistributing it here as a public service with no intention of infringemen
 
 I would be delighted to forefeit ownership of this repository to Microsoft.
 
-## Prior Art
 
-Immediately after initially publishing this repo, I noticed that one of the search results
-on a still-open browser tab was [http://weatherspark.azurewebsites.net/osprey/](http://weatherspark.azurewebsites.net/osprey/),
-which appears to publish a good conversion of the work to HTML format.
-In the interest of archiving resources whose future accessibility is not guaranteed,
-I am mirroring that [HTML page](https://nreilingh.github.io/The-Magic-of-Reading/) in this repo.
+## Read Online
+
+The full text can be viewed online as an [HTML page](https://nreilingh.github.io/The-Magic-of-Reading/) in this repo.<sup>[1](#contributions)</sup>
 
 
 ## Files
@@ -65,8 +62,7 @@ which is eBook-reading software no longer distributed by Microsoft.
 
 This appears to be version 2.1.1, which was released for Windows NT 4.0 through Windows ME.
 This version still installs and is able to read `magic.lit` on Windows 10 in 2019.
-This copy was obtained from a [cnet download page](
-https://download.cnet.com/Microsoft-Reader/3000-20412_4-10047475.html).
+This copy was obtained from a [cnet download page](https://download.cnet.com/Microsoft-Reader/3000-20412_4-10047475.html).
 
 ### [Readerv26setupUSA.exe](Readerv26setupUSA.exe)
 
@@ -79,3 +75,12 @@ Pull requests accepted if someone can get this working.
 
 This version of Microsoft Reader is no longer distributed; this copy was obtained from the [Internet](https://web.archive.org/web/20160816093148/http://www.microsoft.com/en-us/download/details.aspx?id=18364)
 [Archive](https://web.archive.org/web/20160816092327/http://www.microsoft.com/en-us/download/confirmation.aspx?id=18364).
+
+
+## Contributions
+
+- All work originally authored by Bill Hill while at Microsoft.
+
+- Archives compiled by [NReilingh](https://github.com/NReilingh).
+
+- [1](#read-online) – HTML version contributed by [EmperorXLII](https://github.com/EmperorXLII).
