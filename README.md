@@ -20,6 +20,11 @@ I would be delighted to forefeit ownership of this repository to Microsoft.
 
 The full text can be viewed online as an [HTML page](https://nreilingh.github.io/The-Magic-of-Reading/) in this repo.<sup>[1](#contributions)</sup>
 
+### Other Reading
+
+Learn more about the history of typography at Microsoft, including Bill Hill’s contributions to screen reading technology:
+- John Berry, [“The Faces of Microsoft: The people and the rich story of type at the first big tech company.”](https://www.typemag.org/post/the-faces-of-microsoft), [Type Magazine](https://www.typemag.org/), 29&nbsp;September&nbsp;2017 ([archive](https://web.archive.org/web/20200717135504/https://www.typemag.org/post/the-faces-of-microsoft))
+
 
 ## Files
 
