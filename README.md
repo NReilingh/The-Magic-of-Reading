@@ -4,27 +4,31 @@
 By Bill Hill, Microsoft (co-creator of ClearType)
 
 This work has become difficult to access on the Internet due to link rot.
-The late author's words (at the time of this writing) are still available on this blog post:
+The late author's words (at the time of this writing, Nov. 2021) are still available on this blog post:
 https://billhill49.wordpress.com/2008/02/08/the-magic-of-reading/
 
 I have attempted to collect canonical resources here and document how they may be used.
 
-The copyright for this work presumedly belongs to Microsoft,
-but since it was freely available in the past,
-I am redistributing it here as a public service with no intention of infringement.
+The copyright for this work presumedly belongs to Microsoft Corp. rather than the public domain.
+This work has been freely available in the past, and today GitHub is a Microsoft property anyway,
+so the question of whether this repo infringes anyone's copyright is now moot.
 
-I would be delighted to forefeit ownership of this repository to Microsoft.
-
+You're welcome, Redmond! <3
 
 ## Read Online
 
 The full text can be viewed online as an [HTML page](https://nreilingh.github.io/The-Magic-of-Reading/) in this repo.<sup>[1](#contributions)</sup>
 
-### Other Reading
+### Related Media
 
 Learn more about the history of typography at Microsoft, including Bill Hill’s contributions to screen reading technology:
-- John Berry, [“The Faces of Microsoft: The people and the rich story of type at the first big tech company.”](https://www.typemag.org/post/the-faces-of-microsoft), [Type Magazine](https://www.typemag.org/), 29&nbsp;September&nbsp;2017 ([archive](https://web.archive.org/web/20200717135504/https://www.typemag.org/post/the-faces-of-microsoft))
+- John Berry, [“The Faces of Microsoft: The people and the rich story of type at the first big tech company.”](https://www.typemag.org/post/the-faces-of-microsoft), [Type Magazine](https://www.typemag.org/), 29 September 2017 ([archive](https://web.archive.org/web/20200717135504/https://www.typemag.org/post/the-faces-of-microsoft))
 
+I was originally drawn to this material via an audio interview with Bill Hill,
+conducted by [Rob Conery](https://github.com/robconery) for his and [Scott Hanselman](https://github.com/shanselman)'s
+podcast.
+I highly recommend the episode:
+- [This Developer's Life](https://thisdeveloperslife.com): [2.0.5 Typo](https://thisdeveloperslife.com/post/2-0-5-typo), 18 September 2011
 
 ## Files
 
